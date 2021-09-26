@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jason and I am currently a Unixx Systems Engineer based in San Francisco, CA 🇺🇸. 
+My name is Jason and I am currently a Unix Systems Engineer based in San Francisco, CA 🇺🇸. 
 
 As an engineer I like to:
 
