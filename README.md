@@ -12,6 +12,9 @@ I'm currently looking to collaborate on building open source tools using terrafo
 
 j9k
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pknomad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **pknomad/pknomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
