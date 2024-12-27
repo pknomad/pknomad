@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-My name is Jason and I am currently a Unix Systems Engineer based in San Francisco, CA 🇺🇸. 
+My name is Jason and I am currently a Platform Engineer based in New York, NY 🇺🇸. 
 
 As an engineer I like to:
 
 * build tooling that supports internal users
 * enforce corporate security
 * deploy scalable infrastructure.
-
-I'm currently looking to collaborate on building open source tools using terraform and Go that might be somewhat useful both in professional and personal settings.
 
 j9k
 
